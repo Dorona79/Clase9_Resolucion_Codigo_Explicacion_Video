@@ -30,17 +30,17 @@ Sobrescribe el método mostrar para incluir la fecha en el formato deseado.
 
 Mantiene una lista de tareas.
 
-agregar_tarea añade una tarea a la lista.
+Agregar_tarea añade una tarea a la lista.
 
-eliminar_tarea elimina una tarea por su índice.
+Eliminar_tarea elimina una tarea por su índice.
 
-mostrar_tareas muestra todas las tareas en la lista.
+Mostrar_tareas muestra todas las tareas en la lista.
 
 # 6. Función main:
 
 Crea una instancia de ListaDeTareas.
 
-Inicia un bucle que muestra un menú y procesa las opciones del usuario:
+### Inicia un bucle que muestra un menú y procesa las opciones del usuario:
 
 Opción 1: Agrega una tarea general.
 
@@ -52,7 +52,7 @@ Opción 4: Muestra todas las tareas.
 
 Opción 5: Sale del programa.
 
-Para agregar tareas (opciones 1 y 2):
+### Para agregar tareas (opciones 1 y 2):
 
 Solicita nombre, descripción y prioridad.
 
@@ -62,11 +62,11 @@ Para tareas con fecha, solicita y valida una fecha.
 
 Crea la tarea apropiada y la añade a la lista.
 
-Para eliminar tareas (opción 3):
+### Para eliminar tareas (opción 3):
 
 Solicita el índice de la tarea a eliminar.
 
-Para mostrar tareas (opción 4):
+### Para mostrar tareas (opción 4):
 
 Llama al método mostrar_tareas de la lista.
 
