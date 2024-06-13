@@ -7,30 +7,36 @@
 # 2. Clase Tarea:
 
 Es la clase base para todas las tareas.
-El método __init__ inicializa una tarea con nombre, descripción y prioridad.
-El método mostrar devuelve una cadena con la información de la tarea.
 
+El método __init__ inicializa una tarea con nombre, descripción y prioridad.
+
+El método mostrar devuelve una cadena con la información de la tarea.
 
 # 3. Clase TareaGeneral:
 
 Hereda de Tarea.
+
 No agrega funcionalidad adicional, solo llama al constructor de la clase padre.
 
 
 # 4. Clase TareaConFecha:
 
 También hereda de Tarea.
+
 Añade un atributo fecha en su constructor.
+
 Sobrescribe el método mostrar para incluir la fecha en el formato deseado.
 
 
 # 5. Clase ListaDeTareas:
 
 Mantiene una lista de tareas.
-agregar_tarea añade una tarea a la lista.
-eliminar_tarea elimina una tarea por su índice.
-mostrar_tareas muestra todas las tareas en la lista.
 
+agregar_tarea añade una tarea a la lista.
+
+eliminar_tarea elimina una tarea por su índice.
+
+mostrar_tareas muestra todas las tareas en la lista.
 
 # 6. Función main:
 
