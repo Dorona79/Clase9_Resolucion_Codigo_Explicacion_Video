@@ -51,15 +51,16 @@ Opción 5: Sale del programa.
 Para agregar tareas (opciones 1 y 2):
 
 Solicita nombre, descripción y prioridad.
-Valida que la prioridad sea correcta.
-Para tareas con fecha, solicita y valida una fecha.
-Crea la tarea apropiada y la añade a la lista.
 
+Valida que la prioridad sea correcta.
+
+Para tareas con fecha, solicita y valida una fecha.
+
+Crea la tarea apropiada y la añade a la lista.
 
 Para eliminar tareas (opción 3):
 
 Solicita el índice de la tarea a eliminar.
-
 
 Para mostrar tareas (opción 4):
 
