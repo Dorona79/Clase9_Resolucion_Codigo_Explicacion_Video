@@ -1,6 +1,6 @@
 # RESOLUCIÓN DEL CÓDIGO
 
-# 1. From datetime import datetime:
+## 1. From datetime import datetime:
 
 ### Importa la clase datetime del módulo datetime, que se usará para manejar fechas.
 
