@@ -2,7 +2,7 @@
 
 # 1. From datetime import datetime:
 
-## Importa la clase datetime del módulo datetime, que se usará para manejar fechas.
+### Importa la clase datetime del módulo datetime, que se usará para manejar fechas.
 
 # 2. Clase Tarea:
 
