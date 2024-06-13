@@ -66,7 +66,7 @@
 
 ### Solicita el índice de la tarea a eliminar.
 
-### Para mostrar tareas (opción 4):
+## Para mostrar tareas (opción 4):
 
 ### Llama al método mostrar_tareas de la lista.
 
