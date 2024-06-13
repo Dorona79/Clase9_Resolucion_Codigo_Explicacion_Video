@@ -35,14 +35,18 @@ mostrar_tareas muestra todas las tareas en la lista.
 # 6. Función main:
 
 Crea una instancia de ListaDeTareas.
+
 Inicia un bucle que muestra un menú y procesa las opciones del usuario:
 
 Opción 1: Agrega una tarea general.
-Opción 2: Agrega una tarea con fecha.
-Opción 3: Elimina una tarea.
-Opción 4: Muestra todas las tareas.
-Opción 5: Sale del programa.
 
+Opción 2: Agrega una tarea con fecha.
+
+Opción 3: Elimina una tarea.
+
+Opción 4: Muestra todas las tareas.
+
+Opción 5: Sale del programa.
 
 Para agregar tareas (opciones 1 y 2):
 
