@@ -18,7 +18,6 @@ Hereda de Tarea.
 
 No agrega funcionalidad adicional, solo llama al constructor de la clase padre.
 
-
 # 4. Clase TareaConFecha:
 
 También hereda de Tarea.
@@ -26,7 +25,6 @@ También hereda de Tarea.
 Añade un atributo fecha en su constructor.
 
 Sobrescribe el método mostrar para incluir la fecha en el formato deseado.
-
 
 # 5. Clase ListaDeTareas:
 
