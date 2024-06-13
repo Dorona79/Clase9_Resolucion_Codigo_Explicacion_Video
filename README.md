@@ -42,7 +42,7 @@ Crea una instancia de ListaDeTareas.
 
 ### Inicia un bucle que muestra un menú y procesa las opciones del usuario:
 
-Opción 1: Agrega una tarea general.
+## Opción 1: Agrega una tarea general.
 
 Opción 2: Agrega una tarea con fecha.
 
