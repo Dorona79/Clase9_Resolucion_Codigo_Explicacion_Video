@@ -74,3 +74,5 @@
 
 ### Asegura que main() solo se ejecute si el script se está ejecutando directamente y no siendo importado como módulo.
 
+### Link Resolución de Código y Explicación en Video: https://drive.google.com/file/d/1MF0xwfowlW1UZ31gHocbyZXztWOey0oH/view?usp=sharing
+
